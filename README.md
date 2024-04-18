@@ -2,11 +2,9 @@
 
 ## Day 1 - Urban Data, Maps, and GIS
 
-- Intros
-
-- Intro to urban/spatial common data structures (tables, vector, raster, etc.) and formats (csv, json, geojson, etc.)
-
 - Intro to urban data analytics, research, and communication.
+
+- Intro to common urban/spatial data structures (tables, vector, raster, etc.) and formats (csv, json, geojson, etc.)
 
 - [QGIS Tutorial on loading and visualizing data](https://schoolofcities.github.io/mapping-workshops-2023/qgis-intro) (Tutorial 1)
     
