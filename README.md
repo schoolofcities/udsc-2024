@@ -6,28 +6,29 @@
 
 - Intro to urban/spatial common data structures (tables, vector, raster, etc.) and formats (csv, json, geojson, etc.)
 
-- Loading and visualizing data in QGIS
-    - https://schoolofcities.github.io/mapping-workshops-2023/qgis-intro (just tutorial 1)
+- Intro to urban data analytics, research, and communication.
+
+- [QGIS Tutorial on loading and visualizing data](https://schoolofcities.github.io/mapping-workshops-2023/qgis-intro) (Tutorial 1)
     
 - Where to find urban data?
-    - Open Data Portals (City of Toronto)
-    - Intro to census data - what is the census, census profile, censusmapper
-        https://schoolofcities.github.io/mapping-workshops-2023/mapping-census-data
-    - OpenStreetMap (base map, querying, downloading from overpass)
+    - Finding data on open data portals (e.g. City of Toronto Open Data)
+    - [Intro to census data tutorial](https://schoolofcities.github.io/mapping-workshops-2023/mapping-census-data)
+    - OpenStreetMap tutorial (base map, querying, downloading from overpass)
     
-- Cartography/Visualization 101 - short presentation and discussion
+- Cartography & Data Visualization short presentation and discussion
     
-- Processing urban data in GIS (buffers, select by location, spatial joins, editing)
-    - https://schoolofcities.github.io/mapping-workshops-2023/qgis-intro (just tutorial 3)
+- [QGIS Tutorial on processing urban data in GIS](https://schoolofcities.github.io/mapping-workshops-2023/qgis-intro) (Tutorial 3 - buffers, select by location, spatial joins, editing)
+
+- Working in your terminal
 
 - Introduction to Git/GitHub
 
-- Python and urban data (automation, documentation, reproducibility, popularity, vs R etc., libraries)
-    - Working in the terminal
-    - Execute a simple Python script
-   
-- Download miniconda and setup a Python environment (if haven't already)
-
+- Introduction to Python
+    - Writing and executing a simple Python script
+    - Setting up a Python environment
+    - Finding and working with libraries
+    - Getting help (documentation, stackoverflow, chatgpt, etc.)
+    - Discussion on reproducibility
 
 
 ## Day 2 - Urban Data Analysis in Python
@@ -35,24 +36,20 @@
 - Jupyter notebook intro (Python + Markdown)
 
 - Pandas 101 (loading, showing table and subsets, filtering, aggregating, summarizing, descriptive stats, etc.)
-  - https://github.com/schoolofcities/mapping-workshops-2023/tree/main/notebooks/intro-to-pandas
-
-- How to get help (documentation, stackoverflow, chatgpt, asking teammates)
 
 - EDA and Data Visualization in Python (with Altair)
-  - https://github.com/schoolofcities/mapping-workshops-2023/tree/main/notebooks/pandas-data-viz-EDA
 
 - Spatial data in Python using GeoPandas (loading data, viewing data, making choropleths)
-  - https://github.com/schoolofcities/mapping-workshops-2023/tree/main/notebooks/intro-to-geopandas
 
-- Advanced processing and cartography - creating a dot map!
-  - https://github.com/schoolofcities/mapping-workshops-2023/tree/main/notebooks/categorical-dot-maps
+- Geocoding addresses and working with APIs (built this as a group during 2023 workshop)
 
-- Geocoding addresses and working with APIs - we built this as a group, not instructor led
-  - https://github.com/schoolofcities/mapping-workshops-2023/tree/main/notebooks/geocoding
+- Advanced processing and cartography
+  - creating a dot map
+  - creating a bivariate map
 
 
-## Day 3 - Geocoding / GitHub / Web Mapping
+
+## Day 3 - Web Mapping
 
 - Any overflow from Day 2
 
