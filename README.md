@@ -35,7 +35,7 @@
 
 - Pandas 101 (loading, showing table and subsets, filtering, aggregating, summarizing, descriptive stats, etc.)
 
-- EDA and Data Visualization in Python (with Altair)
+- EDA and Data Visualization in Python (with Seaborn)
 
 - Spatial data in Python using GeoPandas (loading data, viewing data, making choropleths)
 
