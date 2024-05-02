@@ -37,7 +37,7 @@
 
 - EDA and Data Visualization in Python (with Seaborn)
 
-- Spatial data in Python using GeoPandas (loading data, viewing data, making choropleths)
+- Spatial data in Python using GeoPandas (loading data, viewing data, converting non-spatial to spatial data, making choropleths)
 
 - Geocoding addresses and working with APIs (built this as a group during 2023 workshop)
 
