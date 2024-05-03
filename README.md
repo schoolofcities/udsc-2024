@@ -12,10 +12,10 @@
     - Finding data on open data portals (e.g. City of Toronto Open Data)
     - [Intro to census data tutorial](https://schoolofcities.github.io/mapping-workshops-2023/mapping-census-data)
     - OpenStreetMap tutorial (base map, querying, downloading from overpass)
+ 
+- [QGIS Tutorial on processing urban data in GIS](https://schoolofcities.github.io/mapping-workshops-2023/qgis-intro) (Tutorial 3 - buffers, select by location, spatial joins, editing)
     
 - Cartography & Data Visualization short presentation and discussion
-    
-- [QGIS Tutorial on processing urban data in GIS](https://schoolofcities.github.io/mapping-workshops-2023/qgis-intro) (Tutorial 3 - buffers, select by location, spatial joins, editing)
 
 - Working in your terminal
 
