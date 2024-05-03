@@ -23,7 +23,7 @@
 
 - Introduction to Python
     - Writing and executing a simple Python script
-    - Overview of Python 101 (data types, conditionals, loops, functions, loading/saving files, etc.)
+    - Python 101 (data types, conditionals, loops, functions, loading/saving files, etc.)
     - Finding and working with libraries
     - Getting help (documentation, stackoverflow, chatgpt, etc.)
     - Discussion on reproducibility
