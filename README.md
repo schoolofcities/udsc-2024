@@ -23,7 +23,6 @@
 
 - Introduction to Python
     - Writing and executing a simple Python script
-    - Setting up a Python environment
     - Finding and working with libraries
     - Getting help (documentation, stackoverflow, chatgpt, etc.)
     - Discussion on reproducibility
