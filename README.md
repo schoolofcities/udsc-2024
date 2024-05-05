@@ -39,19 +39,14 @@
 
 - Spatial data in Python using GeoPandas (loading data, viewing data, converting non-spatial to spatial data, making choropleths)
 
-- Geocoding addresses and working with APIs (built this as a group during 2023 workshop)
-
 - Advanced processing and cartography
   - creating a dot map
   - creating a bivariate map
 
 
-
 ## Day 3 - Web Mapping
 
-- Any overflow from Day 2
+- Geocoding addresses
 
-- HTML, CSS, and Javascript: Making a simple web map in Leaflet - group activity, each student created their own 
-  - This is what I built last year https://github.com/jamaps/leaflet-example
- 
-- Any topics not listed above that students have interest in
+- Making a simple web map with MapLibre
+  - HTML, CSS, and Javascript
