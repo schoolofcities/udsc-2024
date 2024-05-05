@@ -1,0 +1,4 @@
+geocoding/*.ipynb_checkpoints/
+advanced_carto/bivariate-maps/*.ipynb_checkpoints/
+advanced_carto/categorical-dot-maps/*.ipynb_checkpoints/
+.DS_Store
