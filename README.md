@@ -39,7 +39,7 @@
 
 - Spatial data in Python using GeoPandas (loading data, viewing data, converting non-spatial to spatial data, making choropleths)
 
-- Advanced processing and cartography
+- [Advanced processing and cartography](https://smith-lg.github.io/udsc-bootcamp/advanced-carto)
   - creating a dot map
   - creating a bivariate map
 
