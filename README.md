@@ -50,3 +50,5 @@
 
 - [Making a simple web map with MapLibre](https://smith-lg.github.io/udsc-bootcamp/webmaps)
   - HTML, CSS, and Javascript
+  - Example web map: https://smith-lg.github.io/demo-map/
+  - Example source code: https://github.com/smith-lg/demo-map
