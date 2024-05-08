@@ -48,5 +48,5 @@
 
 - Geocoding addresses
 
-- Making a simple web map with MapLibre
+- [Making a simple web map with MapLibre](https://smith-lg.github.io/udsc-bootcamp/webmaps)
   - HTML, CSS, and Javascript
